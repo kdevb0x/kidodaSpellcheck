@@ -1,1 +1,1 @@
-<h1><b> # kidodaSpellcheck</h1>:<p> A simple spellchecker to sanitize my keyboard input of double-keys and other mistakes I make because my want-to-type speed is a bit faster than my able-to-type speed. Written in python3, but I may give dylan-lang a go.</p>
+<h1><b> # kidodaSpellcheck</h1>:<h3> A simple spellchecker to sanitize my keyboard input of double-keys and other mistakes I make because my want-to-type speed is a bit faster than my able-to-type speed. Written in python3, but I may give dylan-lang a go.</h3>
